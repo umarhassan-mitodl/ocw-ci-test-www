@@ -15,6 +15,7 @@ courses:
   title: OCW CI Test Course
 description: ''
 draft: false
+file: /ocw-ci-test-www
 title: featured-courses-homepage
 uid: 6cb0f708-5247-4d7d-b4cb-3ba6331a5862
 ---
