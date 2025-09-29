@@ -20,7 +20,8 @@ department_numbers:
 - '18'
 draft: true
 extra_course_numbers: '456'
-hide_download: false
+hide_download: true
+hide_download_original: false
 instructors:
   content:
   - 588e4e64-823f-4e8e-a29e-0e695e2297ae
