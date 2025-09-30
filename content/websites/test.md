@@ -13,7 +13,7 @@ department_numbers:
 draft: true
 extra_course_numbers: ''
 hide_download: true
-hide_download_original: false
+hide_download_original: true
 instructors:
   content: []
   website: test
